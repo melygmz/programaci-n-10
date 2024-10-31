@@ -1,0 +1,10 @@
+# Interfaz gráfica Tkinter
+En el presente directorio, se utilizo el modulo Tkinter para crear una interfaz grafica para una calculadora. Tkinter es una biblioteca que se utiliza para construir una interfaz gráficas
+
+## Instrucciones de uso
+¿Qué hay que tener instalado para ejecutar el programa? ¿Qué comando utilizar?
+Hay que tener instalada la biblioteca y el comando es “import tkinter”
+
+## Demostracion de ejecución
+<p align=”center”>
+	<img width=”500” src=”./images/image.png”>
