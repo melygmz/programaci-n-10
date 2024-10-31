@@ -1,6 +1,7 @@
 def calcular_promedio(numeros):
     return sum(numeros) / len(numeros)
 
+#se agregaron ":" en el else. promedios, y se quitaron las comillas.
 def comparar_con_promedio(numeros, promedio):
     for num in numeros:
         if num > promedio:
@@ -10,6 +11,7 @@ def comparar_con_promedio(numeros, promedio):
         else:
             print(f"{num} es igual al promedio.")
 
+# Se agregaron paréntesis
 # Pedir al usuario tres números
 numeros = []
 for i in range(3):
